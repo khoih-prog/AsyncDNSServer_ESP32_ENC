@@ -9,11 +9,11 @@
   Built by Khoi Hoang https://github.com/khoih-prog/AsyncDNSServer_ESP32_ENC
   Licensed under MIT license
 
-  Version: 1.1.0
+  Version: 1.0.0
 
   Version Modified By   Date      Comments
   ------- -----------  ---------- -----------
-  1.1.0   K Hoang      28/11/2022 Initial coding for ESP32 + LwIP ENC28J60. Sync with AsyncDNSServer_STM32
+  1.0.0   K Hoang      28/11/2022 Initial coding for ESP32 + LwIP ENC28J60. Sync with AsyncDNSServer_STM32
   *****************************************************************************************************************************/
 
 #pragma once
@@ -28,6 +28,7 @@ extern "C"
 #include <lwip/def.h>
 };
 
+////////////////////////////////////////////////
 
 namespace
 {
