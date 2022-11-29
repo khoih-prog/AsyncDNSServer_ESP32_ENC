@@ -49,3 +49,4 @@
   "platforms": ["espressif32"],
   "examples": "examples/*/*/*.ino",
   "headers": [ "AsyncDNSServer_ESP32_ENC.h", "AsyncDNSServer_ESP32_ENC.hpp" ]
+}  
